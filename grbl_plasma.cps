@@ -41,9 +41,9 @@ properties = {
   sequenceNumberStart: 10,
   sequenceNumberIncrement: 1,
   separateWordsWithSpace: true,
-  pierceDelay: 0.6,
+  pierceDelay: 1,
   useZAxis: true,
-  pierceHeight: 0,
+  pierceHeight: 3.8,
   useG0: true,
   torchOnCommand: "S255 M3",
   torchOffCommand: "S0 M5"
